@@ -7,7 +7,7 @@ A collection of tests that cross check two XPath [JAXP](http://en.wikipedia.org/
 
 There are ~250 very simple tests that cross check behavior of different implementations, in compiled and standard version, for a total of 5632 tests.
 
-This project was born to cross check JXPath against Xalan and Saxon, leter on  has been expanded to include Jaxen.
+This project was born to cross check JXPath against Xalan first (2007) and then Saxon, later on  has been expanded to include Jaxen.
 
 Tested implementations
 ----------------------
