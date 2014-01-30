@@ -16,6 +16,7 @@ Tested implementations
  - Xalan
  - Jaxen
  - JXPath
+ - JXPath Eleusoft (Modified JXPath)
 
 Related Projects
 ----------------
